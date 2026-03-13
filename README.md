@@ -56,16 +56,6 @@ The Power BI dashboard includes:
 
 ---
 
-## 📷 Dashboard Preview
-
-*(Add screenshots of your Power BI dashboard here)*
-
-Example:
-
-![Dashboard Screenshot](Sales Report for Awesome Chocolates.png)
-
----
-
 ## 🔍 Key Insights
 
 Some insights that can be derived from this dashboard:
