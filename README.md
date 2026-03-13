@@ -56,6 +56,16 @@ The Power BI dashboard includes:
 
 ---
 
+## 📷 Dashboard Preview
+
+*(Add screenshots of your Power BI dashboard here)*
+
+Example:
+
+![Dashboard Screenshot](Sales Report for Awesome Chocolates.png)
+
+---
+
 ## 🔍 Key Insights
 
 Some insights that can be derived from this dashboard:
@@ -64,6 +74,17 @@ Some insights that can be derived from this dashboard:
 * Sales show seasonal trends during specific months.
 * Some regions generate significantly higher sales than others.
 * High-performing sales representatives drive large portions of revenue.
+
+---
+
+## 🚀 How to Use
+
+1. Download the **Power BI (.pbix) file** from this repository.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Explore the **interactive visuals and filters**.
+4. Analyze the insights provided in the dashboard.
+
+---
 
 
 ## 💡 Skills Demonstrated
