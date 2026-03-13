@@ -1,99 +1,125 @@
-# 🍫 Awesome Chocolates Sales Dashboard | Power BI
+# 🍫 Awesome Chocolates Sales Report | Power BI
 
 ## 📊 Project Overview
 
-This project presents an **interactive Power BI dashboard** analyzing the sales performance of **Awesome Chocolates**.
-The report provides insights into sales trends, product performance, regional distribution, and overall business growth using data visualization techniques.
+This project presents an **interactive Power BI dashboard** built to analyze the sales performance of **Awesome Chocolates**.
+The dashboard transforms raw sales data into **clear, interactive visual insights** that help understand business performance, product demand, and regional sales distribution.
 
-The goal of this project is to transform raw sales data into **actionable insights** that help stakeholders make better business decisions.
+The report highlights key metrics such as **total sales, number of boxes sold, shipment count, and product performance**, enabling stakeholders to make **data-driven business decisions**.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 
 * Analyze overall **sales performance**
-* Identify **top-selling chocolate products**
 * Track **sales trends over time**
-* Compare **regional sales distribution**
-* Provide an **interactive dashboard for business insights**
+* Evaluate **sales performance by geography**
+* Compare **salesperson performance**
+* Monitor key business metrics such as **total sales, boxes sold, and shipment count**
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Technologies Used
 
-* **Power BI** – Data visualization and dashboard creation
-* **Excel / CSV Dataset** – Data source
+* **Power BI Desktop** – Dashboard creation and data visualization
 * **Power Query** – Data cleaning and transformation
-* **DAX (Data Analysis Expressions)** – Calculations and measures
+* **DAX (Data Analysis Expressions)** – Measures and calculations
+* **Excel / CSV Dataset** – Data source
 
 ---
 
-## 📂 Dataset Description
+## 📂 Dataset Information
 
-The dataset contains sales-related information for Awesome Chocolates including:
+The dataset used in this project contains sales transaction data including:
 
-* **Order Date**
-* **Product Name**
-* **Sales Amount**
-* **Region / Country**
-* **Customer Information**
-* **Sales Representative**
-* **Quantity Sold**
+* Order Date
+* Sales Amount
+* Product Details
+* Salesperson
+* Country / Region
+* Shipment Information
+* Quantity of Boxes Sold
 
-This data is used to analyze sales performance and generate business insights.
+This data is used to generate insights into **sales performance, regional distribution, and employee productivity**.
 
 ---
 
 ## 📈 Dashboard Features
 
-The Power BI dashboard includes:
+The Power BI dashboard includes the following visual components:
 
-* 📅 **Sales Trend Analysis** – Monthly and yearly sales trends
-* 🍫 **Product Performance** – Best and worst selling chocolate products
-* 🌍 **Regional Sales Analysis** – Sales distribution by location
-* 👥 **Customer Insights** – Understanding customer purchasing behavior
-* 💰 **Revenue Metrics** – Total sales, quantity sold, and average sales
+### 🔹 Key Performance Indicators (KPIs)
+
+* **Total Sales:** $43.56M
+* **Total Boxes Sold:** 3M
+* **Shipment Count:** 7,617
+* **LBS Percentage:** 9.56%
+
+### 🔹 Sales Trend Analysis
+
+A **line chart** displaying how sales change over time, helping identify:
+
+* seasonal patterns
+* growth periods
+* potential sales declines
+
+### 🔹 Sales by Geography
+
+A **horizontal bar chart** showing sales performance across regions such as:
+
+* USA
+* UK
+* Australia
+* India
+* Canada
+* New Zealand
+
+### 🔹 Salesperson Performance Table
+
+A detailed table comparing salespeople by:
+
+* Total Sales
+* Total Boxes Sold
+* LBS %
+
+This helps identify **top-performing sales representatives**.
 
 ---
+
 
 ## 🔍 Key Insights
 
-Some insights that can be derived from this dashboard:
+Some important insights derived from the dashboard include:
 
-* Certain chocolate products contribute the majority of revenue.
-* Sales show seasonal trends during specific months.
-* Some regions generate significantly higher sales than others.
-* High-performing sales representatives drive large portions of revenue.
-
----
-
-## 🚀 How to Use
-
-1. Download the **Power BI (.pbix) file** from this repository.
-2. Open it using **Microsoft Power BI Desktop**.
-3. Explore the **interactive visuals and filters**.
-4. Analyze the insights provided in the dashboard.
+* Sales exceeded **$43M**, indicating strong business performance.
+* **New Zealand and Canada** show strong regional sales contribution.
+* Some sales representatives generate significantly higher revenue than others.
+* Sales trends reveal fluctuations across different months, highlighting possible seasonal demand.
 
 ---
 
 
 ## 💡 Skills Demonstrated
 
-* Data Cleaning
+This project demonstrates the following data analytics skills:
+
+* Data Cleaning & Transformation
 * Data Modeling
 * DAX Calculations
+* Dashboard Design
 * Data Visualization
 * Business Intelligence Reporting
-* Dashboard Design
 
 ---
 
-## 📌 Future Improvements
+## 🔮 Future Improvements
 
-* Add **forecasting for future sales**
-* Integrate **real-time data sources**
-* Include **customer segmentation analysis**
-* Improve **dashboard interactivity**
+Possible improvements for this project include:
+
+* Adding **sales forecasting**
+* Creating **customer segmentation analysis**
+* Implementing **advanced DAX measures**
+* Integrating **real-time data sources**
 
 ---
 
@@ -101,10 +127,10 @@ Some insights that can be derived from this dashboard:
 
 **Jiya P Thomas**
 
-If you like this project, feel free to ⭐ the repository and connect with me!
+If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ---
 
 ## 📜 License
 
-This project is open-source and available under the **MIT License**.
+This project is licensed under the **MIT License**.
